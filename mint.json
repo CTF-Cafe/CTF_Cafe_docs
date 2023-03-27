@@ -14,34 +14,43 @@
   "topbarLinks": [
     {
       "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "url": "https://github.com/CTF-Cafe/CTF_Cafe_docs"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "url": "https://github.com/CTF-Cafe/CTF_Cafe_platform"
   },
   "anchors": [
     {
-      "name": "API Reference",
+      "name": "Platform Documentation",
+      "icon": "flag",
+      "url": "platform-doc"
+    },
+    {
+      "name": "API Documentation",
       "icon": "rectangle-terminal",
-      "url": "api-reference"
+      "url": "api-doc"
     },
     {
       "name": "Changelog",
       "icon": "list",
-      "url": "https://mintlify.com"
+      "url": "https://github.com/CTF-Cafe/CTF_Cafe_platform/commits/master"
     },
     {
       "name": "Community",
       "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://discord.gg/HzcxNgRmjx"
     }
   ],
   "navigation": [
     {
       "group": "Home",
       "pages": ["introduction", "features"]
+    },
+    {
+      "group": "Platform Documentation",
+      "pages": ["platform-reference/setup"]
     },
     {
       "group": "API Documentation",
@@ -58,8 +67,8 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/CTFCafe",
+    "github": "https://discord.gg/HzcxNgRmjx",
+    "linkedin": "https://www.linkedin.com/company/ctf-cafe/"
   }
 }
