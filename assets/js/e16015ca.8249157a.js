@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctf_cafe=self.webpackChunkctf_cafe||[]).push([[9700],{5688:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
