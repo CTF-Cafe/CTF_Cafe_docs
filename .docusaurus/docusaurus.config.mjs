@@ -9,8 +9,8 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://ctf.cafe",
   "baseUrl": "/",
-  "organizationName": "ctf_cafe",
-  "projectName": "ctf_cafe",
+  "organizationName": "CTF-Cafe",
+  "projectName": "CTF_Cafe_docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

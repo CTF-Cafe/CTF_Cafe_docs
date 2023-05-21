@@ -14,12 +14,12 @@ const config = {
   url: "https://ctf.cafe",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/CTF_Cafe_docs/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "ctf_cafe", // Usually your GitHub org/user name.
-  projectName: "ctf_cafe", // Usually your repo name.
+  organizationName: "CTF-Cafe", // Usually your GitHub org/user name.
+  projectName: "CTF_Cafe_docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
