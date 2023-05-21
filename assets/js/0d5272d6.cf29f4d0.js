@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctf_cafe=self.webpackChunkctf_cafe||[]).push([[8426],{73:e=>{e.exports=JSON.parse('{"permalink":"/CTF_Cafe_docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
