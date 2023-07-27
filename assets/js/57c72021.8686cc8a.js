@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkctf_cafe=self.webpackChunkctf_cafe||[]).push([[2046],{1236:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/CTF_Cafe_docs/blog/tags/hola","allTagsPath":"/CTF_Cafe_docs/blog/tags","count":1}')}}]);

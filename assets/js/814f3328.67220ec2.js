@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctf_cafe=self.webpackChunkctf_cafe||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/CTF_Cafe_docs/blog/first-blog-post"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkctf_cafe=self.webpackChunkctf_cafe||[]).push([[9044],{7778:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/CTF_Cafe_docs/blog/tags/facebook","allTagsPath":"/CTF_Cafe_docs/blog/tags","count":1}')}}]);
