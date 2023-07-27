@@ -1,0 +1,27 @@
+{
+  "unversionedId": "API/global copy",
+  "id": "API/global copy",
+  "title": "Global Routes",
+  "description": "backEnd/routes/global.js",
+  "source": "@site/docs/API/global copy.md",
+  "sourceDirName": "API",
+  "slug": "/API/global copy",
+  "permalink": "/CTF_Cafe_docs/docs/API/global copy",
+  "draft": false,
+  "editUrl": "https://github.com/CTF-Cafe/CTF_Cafe_docs/tree/main/docs/API/global copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup",
+    "permalink": "/CTF_Cafe_docs/docs/setup"
+  },
+  "next": {
+    "title": "Global Routes",
+    "permalink": "/CTF_Cafe_docs/docs/API/global"
+  }
+}

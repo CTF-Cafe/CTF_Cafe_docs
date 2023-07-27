@@ -1,68 +1,38 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/CTF_Cafe_docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/CTF_Cafe_docs/docs",
           "mainDocId": "setup",
           "docs": [
             {
+              "id": "API/admin",
+              "path": "/CTF_Cafe_docs/docs/API/admin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API/global",
+              "path": "/CTF_Cafe_docs/docs/API/global",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API/user",
+              "path": "/CTF_Cafe_docs/docs/API/user",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API/utils/schemas",
+              "path": "/CTF_Cafe_docs/docs/API/utils/schemas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "setup",
-              "path": "/docs/setup",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "path": "/CTF_Cafe_docs/docs/setup",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,7 +40,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/setup",
+                "path": "/CTF_Cafe_docs/docs/setup",
                 "label": "setup"
               }
             }

@@ -3,140 +3,114 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'e3f'),
+    path: '/CTF_Cafe_docs/__docusaurus/debug',
+    component: ComponentCreator('/CTF_Cafe_docs/__docusaurus/debug', '818'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '325'),
+    path: '/CTF_Cafe_docs/__docusaurus/debug/config',
+    component: ComponentCreator('/CTF_Cafe_docs/__docusaurus/debug/config', '37f'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '1d3'),
+    path: '/CTF_Cafe_docs/__docusaurus/debug/content',
+    component: ComponentCreator('/CTF_Cafe_docs/__docusaurus/debug/content', '267'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '388'),
+    path: '/CTF_Cafe_docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/CTF_Cafe_docs/__docusaurus/debug/globalData', '544'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '811'),
+    path: '/CTF_Cafe_docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/CTF_Cafe_docs/__docusaurus/debug/metadata', '90d'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'bef'),
+    path: '/CTF_Cafe_docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/CTF_Cafe_docs/__docusaurus/debug/registry', '25d'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'a81'),
+    path: '/CTF_Cafe_docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/CTF_Cafe_docs/__docusaurus/debug/routes', 'd05'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'ad9'),
+    path: '/CTF_Cafe_docs/blog',
+    component: ComponentCreator('/CTF_Cafe_docs/blog', 'b95'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'dcb'),
+    path: '/CTF_Cafe_docs/blog/archive',
+    component: ComponentCreator('/CTF_Cafe_docs/blog/archive', '313'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'e46'),
+    path: '/CTF_Cafe_docs/blog/first-blog-post',
+    component: ComponentCreator('/CTF_Cafe_docs/blog/first-blog-post', 'adf'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '7c8'),
+    path: '/CTF_Cafe_docs/blog/tags',
+    component: ComponentCreator('/CTF_Cafe_docs/blog/tags', '07e'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '75f'),
+    path: '/CTF_Cafe_docs/blog/tags/hello',
+    component: ComponentCreator('/CTF_Cafe_docs/blog/tags/hello', '5e1'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '4a6'),
+    path: '/CTF_Cafe_docs/blog/tags/world',
+    component: ComponentCreator('/CTF_Cafe_docs/blog/tags/world', 'c2b'),
+    exact: true
+  },
+  {
+    path: '/CTF_Cafe_docs/markdown-page',
+    component: ComponentCreator('/CTF_Cafe_docs/markdown-page', 'c71'),
+    exact: true
+  },
+  {
+    path: '/CTF_Cafe_docs/docs',
+    component: ComponentCreator('/CTF_Cafe_docs/docs', 'e2f'),
     routes: [
       {
-        path: '/docs/category/tutorial---basics',
-        component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
+        path: '/CTF_Cafe_docs/docs/API/admin',
+        component: ComponentCreator('/CTF_Cafe_docs/docs/API/admin', '5ef'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/tutorial---extras',
-        component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+        path: '/CTF_Cafe_docs/docs/API/global',
+        component: ComponentCreator('/CTF_Cafe_docs/docs/API/global', '030'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/setup',
-        component: ComponentCreator('/docs/setup', '9c4'),
+        path: '/CTF_Cafe_docs/docs/API/user',
+        component: ComponentCreator('/CTF_Cafe_docs/docs/API/user', '57e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
+        path: '/CTF_Cafe_docs/docs/API/utils/schemas',
+        component: ComponentCreator('/CTF_Cafe_docs/docs/API/utils/schemas', 'cc3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+        path: '/CTF_Cafe_docs/docs/setup',
+        component: ComponentCreator('/CTF_Cafe_docs/docs/setup', 'b4e'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '09a'),
+    path: '/CTF_Cafe_docs/',
+    component: ComponentCreator('/CTF_Cafe_docs/', 'f14'),
     exact: true
   },
   {

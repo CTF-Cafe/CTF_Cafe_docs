@@ -1,0 +1,27 @@
+{
+  "unversionedId": "API/user",
+  "id": "API/user",
+  "title": "User Routes",
+  "description": "backEnd/routes/user.js",
+  "source": "@site/docs/API/user.md",
+  "sourceDirName": "API",
+  "slug": "/API/user",
+  "permalink": "/CTF_Cafe_docs/docs/API/user",
+  "draft": false,
+  "editUrl": "https://github.com/CTF-Cafe/CTF_Cafe_docs/tree/main/docs/API/user.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Global Routes",
+    "permalink": "/CTF_Cafe_docs/docs/API/global"
+  },
+  "next": {
+    "title": "Admin Routes",
+    "permalink": "/CTF_Cafe_docs/docs/API/admin"
+  }
+}

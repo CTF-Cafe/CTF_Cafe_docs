@@ -1,0 +1,27 @@
+{
+  "unversionedId": "API/global",
+  "id": "API/global",
+  "title": "Global Routes",
+  "description": "backEnd/routes/global.js",
+  "source": "@site/docs/API/global.md",
+  "sourceDirName": "API",
+  "slug": "/API/global",
+  "permalink": "/CTF_Cafe_docs/docs/API/global",
+  "draft": false,
+  "editUrl": "https://github.com/CTF-Cafe/CTF_Cafe_docs/tree/main/docs/API/global.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup",
+    "permalink": "/CTF_Cafe_docs/docs/setup"
+  },
+  "next": {
+    "title": "User Routes",
+    "permalink": "/CTF_Cafe_docs/docs/API/user"
+  }
+}

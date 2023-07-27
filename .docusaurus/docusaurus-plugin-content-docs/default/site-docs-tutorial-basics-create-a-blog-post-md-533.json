@@ -6,9 +6,9 @@
   "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-blog-post",
-  "permalink": "/docs/tutorial-basics/create-a-blog-post",
+  "permalink": "/CTF_Cafe_docs/docs/tutorial-basics/create-a-blog-post",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+  "editUrl": "https://github.com/CTF-Cafe/CTF_Cafe_docs/docs/tutorial-basics/create-a-blog-post.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Document",
-    "permalink": "/docs/tutorial-basics/create-a-document"
+    "permalink": "/CTF_Cafe_docs/docs/tutorial-basics/create-a-document"
   },
   "next": {
     "title": "Markdown Features",
-    "permalink": "/docs/tutorial-basics/markdown-features"
+    "permalink": "/CTF_Cafe_docs/docs/tutorial-basics/markdown-features"
   }
 }

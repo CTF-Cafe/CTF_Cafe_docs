@@ -1,0 +1,23 @@
+{
+  "unversionedId": "API/schemas",
+  "id": "API/schemas",
+  "title": "Validation Schemas",
+  "description": "backEnd/controllers/validation.js",
+  "source": "@site/docs/API/schemas.md",
+  "sourceDirName": "API",
+  "slug": "/API/schemas",
+  "permalink": "/CTF_Cafe_docs/docs/API/schemas",
+  "draft": false,
+  "editUrl": "https://github.com/CTF-Cafe/CTF_Cafe_docs/tree/main/docs/API/schemas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Admin Routes",
+    "permalink": "/CTF_Cafe_docs/docs/API/admin"
+  }
+}

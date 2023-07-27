@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/CTF_Cafe_docs/docs/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "Setup",
+      "permalink": "/CTF_Cafe_docs/docs/setup"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/CTF_Cafe_docs/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

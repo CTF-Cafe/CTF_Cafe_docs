@@ -2,13 +2,13 @@
   "unversionedId": "setup",
   "id": "setup",
   "title": "Setup",
-  "description": "CTFCafe on fresh Ubtuntu 22.10",
+  "description": "CTFCafe on fresh Ubtuntu 22.10 (without dockerApi)",
   "source": "@site/docs/setup.md",
   "sourceDirName": ".",
   "slug": "/setup",
-  "permalink": "/docs/setup",
+  "permalink": "/CTF_Cafe_docs/docs/setup",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/setup.md",
+  "editUrl": "https://github.com/CTF-Cafe/CTF_Cafe_docs/tree/main/docs/setup.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Global Routes",
+    "permalink": "/CTF_Cafe_docs/docs/API/global"
   }
 }

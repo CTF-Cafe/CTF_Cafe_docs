@@ -6,9 +6,9 @@
 export default {
   "title": "CTFCafe",
   "tagline": "Easy, cheap and stable CTF Platform.",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/favicon.png",
   "url": "https://ctf.cafe",
-  "baseUrl": "/",
+  "baseUrl": "/CTF_Cafe_docs/",
   "organizationName": "CTF-Cafe",
   "projectName": "CTF_Cafe_docs",
   "onBrokenLinks": "throw",
@@ -26,15 +26,15 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/raxo/Desktop/Development/CTF-Cafe/CTF_Cafe_docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "C:\\Users\\oscar\\Desktop\\Development\\CTF_Cafe_docs\\sidebars.js",
+          "editUrl": "https://github.com/CTF-Cafe/CTF_Cafe_docs/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/CTF-Cafe/CTF_Cafe_docs/tree/main/"
         },
         "theme": {
-          "customCss": "/home/raxo/Desktop/Development/CTF-Cafe/CTF_Cafe_docs/src/css/custom.css"
+          "customCss": "C:\\Users\\oscar\\Desktop\\Development\\CTF_Cafe_docs\\src\\css\\custom.css"
         }
       }
     ]
@@ -45,7 +45,7 @@ export default {
       "title": "CTFCafe",
       "logo": {
         "alt": "CTFCafe Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo.png"
       },
       "items": [
         {
@@ -60,7 +60,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/CTF-Cafe/",
           "label": "GitHub",
           "position": "right"
         }
@@ -83,16 +83,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://discord.gg/HzcxNgRmjx"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/CTFCafe"
             }
           ]
         },
@@ -105,12 +101,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/CTF-Cafe/"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 CTFCafe, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

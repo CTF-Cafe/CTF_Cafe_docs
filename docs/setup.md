@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Setup
-*CTFCafe on fresh Ubtuntu 22.10*
+*CTFCafe on fresh Ubtuntu 22.10 (without dockerApi)*
 
 ~10min
 
@@ -61,7 +61,10 @@ sudo certbot --nginx -d example.ctf.cafe
 ```bash
 docker-compose up -d
 ```
-1. Make sure to save the admin password sent in the backEnd  docker console.
+
+:::caution
+Make sure to save the admin password sent in the backEnd  docker console.
+:::
 
 Head to your browser and open up the url, everything should be working, Enjoy!
 
